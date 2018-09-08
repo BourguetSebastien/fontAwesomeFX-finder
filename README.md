@@ -7,7 +7,7 @@ This lib allow you to use a lots a différents icons font in your JavaFx project
 
 Examples:
 <img src="main_screen.png" alt="main view">
-<img src="search_scree.png" alt="search example">
+<img src="search_screen.png" alt="search example">
 
 ##Details
 This project is a good sample for a Maven Java 8 / JavaFx sample, with a Maven configuration for FontAwesomeFX use.
