@@ -9,10 +9,11 @@ Examples:
 <img src="main_screen.png" alt="main view">
 <img src="search_screen.png" alt="search example">
 
-##Details
+**Details**
+
 This project is a good sample for a Maven Java 8 / JavaFx sample, with a Maven configuration for FontAwesomeFX use.
 
-##TODO
+**TODO**
 
 - [ ] Improve performances
 - [ ] Add copy actions (like, copy for fxml, copy for class, ...)
